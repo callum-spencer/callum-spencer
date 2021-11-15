@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @callum-spencer
-- 🌱 I’m currently learning ... Kubernetes & Docker, as well as a bit of Terraform. 
+- 👋 Hi, I’m @callum-spencer 
 - 📫 How to reach me ... https://www.linkedin.com/in/callumspencer31121994/
